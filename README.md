@@ -22,7 +22,19 @@ The project follows a layered architecture that separates the presentation, cont
 
 
 
-\## Features
+\## Project Demo
+
+
+
+🎥 \*\*Complete Application Demo\*\*
+
+
+
+\[Watch the LoginApplication Demo](https://youtu.be/RXH22dGsXGE)
+
+
+
+The demo demonstrates the complete application workflow, including user registration, login, session-based authentication, profile management, account update, account deletion, and logout.## Features
 
 
 
